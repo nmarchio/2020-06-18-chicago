@@ -14,7 +14,7 @@
 #  https://github.com/carpentries/workshop-template
 # and for instructor training events you should use:
 #  https://github.com/carpentries/training-template
-carpentry: "Data Carpentry"
+carpentry: "dc"
 
 # This option is currently only needed for Data Carpentry workshops.
 # The value of the variable will be ignored for Software Carpentry and
@@ -24,7 +24,7 @@ carpentry: "Data Carpentry"
 # dc-genomics: for Data Carpentry Genomics
 # dc-socsci: for Data Carpentry Social Sciences
 # dc-geospatial: for Data Carpentry Geospatial
-curriculum: "R for Social Science"
+curriculum: "dc-socsci"
 
 # If there is both an R and python official version of a curriculum, change the
 # value of the variable below ("flavor") to get the schedule updated accordingly
@@ -46,7 +46,7 @@ title: "Data Analysis and Visualization"
 #------------------------------------------------------------
 
 # What kind of thing is this ("workshop" or "lesson")?
-kind: "Workshop"
+kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
